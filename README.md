@@ -184,6 +184,7 @@ A curated list of cryptography resources and links.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [XKCP](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
+- [xdigest](https://github.com/rinrab/xdigest) - Extremely fast, lightweight, and portable implementations of cryptographic digest algorithms (SHA1, SHA2, MD5).
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C++
